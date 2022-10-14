@@ -21,18 +21,22 @@ struct Arcticle
     }
     public void reader() // функция ввода
     {
+        Console.WriteLine("Номер\t");
         id = Console.ReadLine();
+        Console.WriteLine("Имя\t");
         name = Console.ReadLine();
+        Console.WriteLine("Цена\t");
         prise = Console.ReadLine();
+        Console.WriteLine("Тип товара 0..2\t");
         ios = (product)int.Parse(Console.ReadLine()); // единственное решение
     }
   
 }
   enum product // перечисление типов товара
 {
-    beer,
-    candy,
-    eat
+    пиво,
+    рыба,
+    игрушки
 }
 
 class Program
