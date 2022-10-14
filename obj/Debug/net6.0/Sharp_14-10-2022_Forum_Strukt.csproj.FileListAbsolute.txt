@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.exe
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.deps.json
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.dll
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.pdb
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.dll
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\refint\Sharp_14-10-2022_Forum_Strukt.dll
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.pdb
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Strukt.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Strukt\obj\Debug\net6.0\ref\Sharp_14-10-2022_Forum_Strukt.dll
