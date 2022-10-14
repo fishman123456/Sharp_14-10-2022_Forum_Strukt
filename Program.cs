@@ -14,23 +14,25 @@ struct Arcticle
     public string id; // код товара
     public string name; // название товара
     public string prise; // цена товара
-   
+    public product ios; // структура
     public void Print() // функция вывода
     {
-        Console.WriteLine($"Номер {id}, Имя {name}, Цена {prise}");
+        Console.WriteLine($"Номер {id}, Имя {name}, Цена {prise} ,Тип товара {ios}");
     }
     public void reader() // функция ввода
     {
         id = Console.ReadLine();
         name = Console.ReadLine();
         prise = Console.ReadLine();
+        ios = (product)int.Parse(Console.ReadLine()); // единственное решение
     }
-    enum product // перечисление типов товара
-    {
-        beer,
-        candy,
-        eat
-    }
+  
+}
+  enum product // перечисление типов товара
+{
+    beer,
+    candy,
+    eat
 }
 
 class Program
